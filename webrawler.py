@@ -1,4 +1,3 @@
-from time import time_ns
 import urllib.request as req
 import bs4
 import datetime ,time
